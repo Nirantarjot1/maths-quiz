@@ -1,0 +1,20 @@
+body{
+    background-image: url("2.jpg");
+}
+
+.send{
+    height: 20px;
+}
+
+.number1 , .number2{
+    height: 20px;
+    }
+
+    #output{
+        background: white;
+        border-radius: 10px;
+        border-top: 10px solid #aa4465;
+        padding: 10px;
+        float:none;
+        text-align: center;
+    }
